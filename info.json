@@ -1,0 +1,60 @@
+[
+{
+"SOF": "Self",
+"Card Holder Name": "SANGHVI PALAKBEN HETUL",
+"Card Number": "5554",
+"Address": "27-SUJAN BUNGLOWS NR SHREYAS _ ___ AHMEDABAD ar j",
+"Passport Number": "N0262047",
+"Mobile Number": "9899113331",
+"Email ID": "HETULJSANGHVI@GMAIL.COM",
+"D.O.B": "9899113331",
+"D.O.I": "02/06/1977",
+"D.O.E": "19/06/2015",
+"Mother Name": "MANJULABEN",
+"Pan No": "AAVPPS156F",
+"Currency Type": "AMOUNT",
+"Card Type / Type": "SOF",
+"Amount In Currency": "CURRENCY",
+"Travel Type": "BTQ",
+"Travel Date": "18/10/2022",
+"FFMCName / Account Name": "Thomas Cook India Ltd",
+"FFMC Account No / Account No": "57500000424836",
+"Amount": "164400",
+"Reference No / IFSC No": null,
+"ID Type": "Annexure"
+},
+{
+"Passport No": "N0262047",
+"Surname": "SANGHVI",
+"Name": "PALAKBEN HETUL",
+"Nationality": "INDIAN",
+"Sex": "M",
+"Date of Birth": null,
+"Place of Birth": "AHMEDABAD, GUJARAT",
+"Place of Issue": "AHMEDABAD",
+"Date of Issue": null,
+"Date of Expiry": null,
+"Unique Code": null,
+"Father Name": null,
+"Mother Name": null,
+"Spouse Name": null,
+"ID Type": "Passport"
+},
+{
+"Date of Birth": null,
+"Father Name": null,
+"ID Type": "PAN",
+"Name": null,
+"PAN": null
+},
+{
+"ID Type": "Ticket",
+"Date of Travel": "20/10/2022",
+"Date of Return": "04/11/2022"
+},
+{
+"ID Type": "Visa",
+"Date of Issue": null,
+"Date of Expiry": null
+}
+]
